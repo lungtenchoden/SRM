@@ -47,7 +47,7 @@ Keep the records after closing and reopening the application.
 
 ## 4. Project Structure
 
-
+```
 Unit V/
 │
 ├── partA/
@@ -65,7 +65,7 @@ Unit V/
     ├── storage.py
     ├── test_logic.py
     └── ui_main.py
-
+```
 
 *`main.py` starts the application.
 *`ui_main.py` is the user interface layer (widgets, layouts, signals and slots, styling).

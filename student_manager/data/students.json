@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "roll_no": "101",
+      "name": "Tashi Dorji",
+      "class": "6A",
+      "marks": [
+        78,
+        85,
+        64
+      ]
+    },
+    {
+      "roll_no": "102",
+      "name": "Pema Lhamo",
+      "class": "6A",
+      "marks": [
+        99,
+        88,
+        95
+      ]
+    },
+    {
+      "roll_no": "103",
+      "name": "Karma Wangchuk",
+      "class": "6B",
+      "marks": [
+        35,
+        52,
+        48
+      ]
+    },
+    {
+      "roll_no": "104",
+      "name": "Sonam Choden",
+      "class": "7A",
+      "marks": [
+        60,
+        45,
+        71
+      ]
+    }
+  ]
+}
